@@ -74,7 +74,7 @@ I completed the Create a CV course, which taught me how to structure and highlig
 ### Evidence
 I completed the CV Submission process to be able to apply for internship opportunities. This helped me practice job hunting and understand how to present myself professionally online.
 
-[Download My CV](./FHUMULANI SETJIE RESUME.pdf)
+[Download My CV](./FHUMULANI%SETJIE%RESUME.pdf)
 
 ### Reflection (STAR Technique)
 - **Situation**: I wanted to apply for real internship opportunities.
